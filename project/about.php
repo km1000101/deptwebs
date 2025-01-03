@@ -139,7 +139,7 @@ To become a premier department in the field of Artificial Intelligence, recogniz
          <div class="user">
             <img src="images/pic-4.jpg" alt="">
             <div>
-               <h3>john deo</h3>
+               <h3>Preksha</h3>
                <div class="stars">
                   <i class="fas fa-star"></i>
                   <i class="fas fa-star"></i>
